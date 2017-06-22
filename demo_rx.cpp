@@ -17,7 +17,7 @@
 	
 
 
-#include <stdlib.h>
+#includ  e <stdlib.h>
 #include <stdio.h>
 #include <unistd.h>
 #include <cmath>
